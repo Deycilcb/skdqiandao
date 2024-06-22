@@ -45,13 +45,5 @@ export type AttendanceResponse = SklandResponse<{
 /** 森空岛版面id */
 export enum SklandBoard {
   /** 明日方舟 */
-  Arknight = 1,
-  /** 来自星辰 */
-  Gryphfrontier = 2,
-  /** 明日方舟: 终末地 */
-  Endfield = 3,
-  /** 泡姆泡姆 */
-  Popucom = 4,
-  /** 纳斯特港 */
-  Neste = 100,
+  Arknight = 1
 }
